@@ -1,0 +1,2 @@
+# premium-facing-tool-001-facing-tool-forging-lathe-su
+Stop losing track of your forging parameters and surface finish specs. The Facing Tool Forging &amp; Lathe Surface Craft Studio turns your Notion into a precision-tuned workshop manager for every facing tool you create.  This template eliminates the chaos of scattered notes and inconsistent processes by centralizing your entire workflow from forging to
